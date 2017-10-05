@@ -1,5 +1,8 @@
 package zjlin.tinyioc.beans;
 
+/**
+ * Original author : Yihua.Huang
+ */
 public class PropertyValue {
 
     private final String name;
